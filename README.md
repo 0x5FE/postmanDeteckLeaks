@@ -39,12 +39,11 @@ senhas, chaves API, tokens de acesso e segredos.
 
 # Futuras Melhorias
 
-# Future improvements
-
 - [ ] Melhoria da precisão
 - [ ] Melhoria da eficiência
 - [ ] Melhoria da usabilidade
   
+
 - o autor deste script não é responsável por qualquer uso indevido, dano ou atividades ilegais causados pelo uso deste script. 
 
 # Contribuição
