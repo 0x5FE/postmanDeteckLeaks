@@ -7,10 +7,11 @@
 senhas, chaves API, tokens de acesso e segredos.
 
 # Dependências
- - requests
--  json
--  itertools
--  os
+
+- requests
+- json
+- os
+- argparse
 
 # Configuração
 
@@ -35,6 +36,14 @@ senhas, chaves API, tokens de acesso e segredos.
 # Isenção de responsabilidade: 
 
 - Certifique-se de que que você tem a devida autorização antes de utilizar.
+
+# Futuras Melhorias
+
+# Future improvements
+
+- [ ] Melhoria da precisão
+- [ ] Melhoria da eficiência
+- [ ] Melhoria da usabilidade
   
 - o autor deste script não é responsável por qualquer uso indevido, dano ou atividades ilegais causados pelo uso deste script. 
 
